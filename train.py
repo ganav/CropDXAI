@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-#title           :train.py
-#description     :to train the model
-#author          :Deepak Birla
-#date            :2018/10/30
-#usage           :python train.py --options
-#python_version  :3.5.4 
 
 import Network, math
 import  Utils

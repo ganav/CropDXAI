@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-#title           :Utils.py
-#description     :Have helper functions to process images and plot images
-#author          :Deepak Birla
-#date            :2018/10/30
-#usage           :imported in other files
-#python_version  :3.5.4
-
 
 import tensorflow as tf
 #from skimage import data, io, filters
